@@ -1,2 +1,2 @@
 # Phone Store Website
-Website link: [Link Text](https://priyans1727c.github.io/Website/)
+Website link: [Click here to visite](https://priyans1727c.github.io/Website/)
